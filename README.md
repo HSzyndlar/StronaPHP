@@ -1,2 +1,0 @@
-# StronaPHP
-# StronaPHP
